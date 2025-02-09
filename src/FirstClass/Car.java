@@ -1,3 +1,5 @@
+package FirstClass;
+
 public class Car {
     String make = "Ford";
     String model = "Mustang";
