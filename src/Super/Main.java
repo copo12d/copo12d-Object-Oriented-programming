@@ -2,7 +2,7 @@ package Super;
 
 public class Main {
     public static void main(String[] args) {
-        //Super = Refers to the parent class (Subclass <- Superclasss)
+        //Super = Refers to the parent class (Subclass <- Superclasses)
         //        Used in constructors and method overriding
         //        Calls the parent constructor to initialise attributes.
         Person person = new Person("Tom","riddle");
